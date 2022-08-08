@@ -11,5 +11,5 @@ https://mockend.com/newzpanuwat/mockend/posts
 #### Comments
 
 ```sh
-https://mockend.com/newzpanuwat/mockend/posts
+https://mockend.com/newzpanuwat/mockend/comment
 ```
